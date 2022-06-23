@@ -1,0 +1,147 @@
+/*
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Primary
+
+- Red: hsl(0, 100%, 74%) 
+- Green: hsl(154, 59%, 51%)
+
+### Accent
+
+- Blue: hsl(248, 32%, 49%)
+
+### Neutral
+
+- Dark Blue: hsl(249, 10%, 26%) 
+- Grayish Blue: hsl(246, 25%, 77%)
+*/
+
+ @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;500;600;700&family=Rubik:wght@300;400;600&display=swap');
+
+:root{
+	--page-white: #f2f2f2;
+	--page-orange: #e38526;
+	--page-turquoise: #2d6972;
+	--page-navy-green: #19403f;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: var(--page-white);
+	display: flex;
+	justify-content: center;
+	font-size: 16px;
+	height: 100vh;
+	align-items: center;
+}
+
+main{
+	width: 60%;
+	display: flex;
+	align-items: center;
+	border-radius: 0.47rem;
+	overflow: hidden;
+}
+
+article{
+	padding: 1rem 2rem;
+	width: 33.3%;
+	color: var(--page-white);
+	display: flex;
+	flex-direction: column;
+	font-family: 'Rubik', sans-serif;
+	font-size: small;
+}
+
+article:before{
+	content: " ";
+	background: rgba(0, 0, 0, 0.3);
+	height: 40px;
+	width: 40px;
+	margin: 2rem 0;
+	border-radius: 50%;
+}
+
+article h1{
+	margin: 1rem 0;
+	text-transform: uppercase;
+	font-family: 'Bebas Neue', cursive;
+}
+
+article a{
+	align-self: flex-start;
+	border-radius: 1.3rem;
+	background: var(--page-white);
+	margin-top: 3rem;
+	padding: 0.7rem;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+article:nth-child(1){
+	background: var(--page-orange);
+}
+
+article:nth-child(2){
+	background: var(--page-turquoise);
+}
+
+article:nth-child(3){
+	background: var(--page-navy-green);
+}
+
+article:nth-child(1) a{
+	color: var(--page-orange);
+}
+
+article:nth-child(2) a{
+	color: var(--page-turquoise);
+}
+
+article:nth-child(3) a{
+	color: var(--page-navy-green);
+}
+
+@media only screen and (min-width: 375px) and (max-width: 578px){
+	body{
+		height: unset;
+	}
+
+	main{
+		flex-direction: column;
+		width: 70%;
+		margin-top: 2rem;
+	}
+
+	article{
+		width: 100%;
+		margin-bottom: 1rem;
+		border-radius: 0.47rem;
+	}
+}
+
+@media only screen and (min-width: 579px) and (max-width: 1144px){
+	body{
+		height: unset;
+	}
+
+	article {
+		width: 80%;
+		margin-bottom: 1rem;
+		border-radius: 0.47rem;
+	}
+
+	main {
+	  width: 50%;
+	  flex-direction: column;
+	  margin-top: 2rem;
+	}
+}
