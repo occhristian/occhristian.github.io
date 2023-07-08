@@ -39,15 +39,15 @@ Navigate to your repository, and click on the green CODE button.
 
 ## Install Jekyll
 
-![terminal showing installation of jekyll](https://res.cloudinary.com/dked0ofts/image/upload/v1688706767/how-to-create-github-pages-site-easy-five-steps-3_geu9co.png)
+![terminal showing installation of jekyll](/how-to-create-github-pages-site-easy-five-steps-3_geu9co.png)
 
 ## Modify the _config.yml file
 
-![terminal showing yaml config file modification](https://res.cloudinary.com/dked0ofts/image/upload/v1688706767/how-to-create-github-pages-site-easy-five-steps-4_srygzr.png)![terminal showing jekyll bundle installation](https://res.cloudinary.com/dked0ofts/image/upload/v1688706767/how-to-create-github-pages-site-easy-five-steps-6_kbyie9.png)![terminal confirming jekyll bundle installation](https://res.cloudinary.com/dked0ofts/image/upload/v1688706767/how-to-create-github-pages-site-easy-five-steps-8_sai2fi.png)
+![terminal showing yaml config file modification](/how-to-create-github-pages-site-easy-five-steps-4_srygzr.png)![terminal showing jekyll bundle installation](/how-to-create-github-pages-site-easy-five-steps-6_kbyie9.png)![terminal confirming jekyll bundle installation](/how-to-create-github-pages-site-easy-five-steps-8_sai2fi.png)
 
 ## Push changes back to Github
 
-![terminal showing changes being added to git commit](https://res.cloudinary.com/dked0ofts/image/upload/v1688706767/how-to-create-github-pages-site-easy-five-steps-10_lbwhtc.png)![terminal showing changes being pushed to git repository](https://res.cloudinary.com/dked0ofts/image/upload/v1688706767/how-to-create-github-pages-site-easy-five-steps-12_tjpofa.png)![newly build jekyll blog viewed in browser](https://res.cloudinary.com/dked0ofts/image/upload/v1688706767/how-to-create-github-pages-site-easy-five-steps-14_mbbjs3.png)
+![terminal showing changes being added to git commit](/how-to-create-github-pages-site-easy-five-steps-10_lbwhtc.png)![terminal showing changes being pushed to git repository](/how-to-create-github-pages-site-easy-five-steps-12_tjpofa.png)![newly build jekyll blog viewed in browser](/how-to-create-github-pages-site-easy-five-steps-14_mbbjs3.png)
 
 ...and that, my friends, is how you do it!
 
