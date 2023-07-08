@@ -41,19 +41,19 @@ img_cdn: https://res.cloudinary.com/dked0ofts/image/upload/v1688706767
 			<p>Next, you need to clone the repository you just created, to your PC.<br>
 			Navigate to your repository, and click on the green CODE button.</p>
 			<h2 id="install-jekyll">Install Jekyll</h2>
-			<img class="post-image" src="/how-to-create-github-pages-site-easy-five-steps-3_geu9co.png">
+			![terminal showing installation of jekyll](/how-to-create-github-pages-site-easy-five-steps-3_geu9co.png)
 
 			<h2 id="modify-config">Modify the _config.yml file</h2>
-			<img class="post-image" src="/how-to-create-github-pages-site-easy-five-steps-4_srygzr.png">
+			![terminal showing yaml config file modification](/how-to-create-github-pages-site-easy-five-steps-4_srygzr.png)
 
-			<img class="post-image" src="/how-to-create-github-pages-site-easy-five-steps-6_kbyie9.png">
+			![terminal showing jekyll bundle installation](/how-to-create-github-pages-site-easy-five-steps-6_kbyie9.png)
 
-			<img class="post-image" src="/how-to-create-github-pages-site-easy-five-steps-8_sai2fi.png">
+			![terminal confirming jekyll bundle installation](/how-to-create-github-pages-site-easy-five-steps-8_sai2fi.png)
 
 			<h2 id="push-changes">Push changes back to Github</h2>
-			<img class="post-image" src="/how-to-create-github-pages-site-easy-five-steps-10_lbwhtc.png">
-			<img class="post-image" src="/how-to-create-github-pages-site-easy-five-steps-12_tjpofa.png">
-			<img class="post-image" src="/how-to-create-github-pages-site-easy-five-steps-14_mbbjs3.png">
+			![terminal showing changes being added to git commit](/how-to-create-github-pages-site-easy-five-steps-10_lbwhtc.png)
+			![terminal showing changes being pushed to git repository](/how-to-create-github-pages-site-easy-five-steps-12_tjpofa.png)
+			![newly build jekyll blog viewed in browser](/how-to-create-github-pages-site-easy-five-steps-14_mbbjs3.png)
 		</div>
 
 		<div class="post-outro">
