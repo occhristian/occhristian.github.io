@@ -3,9 +3,10 @@ title: Not All Spaces Are Equal
 date: 2025-04-29 14:30:00 +0100
 categories: [general, dev talk]
 tags: [javascript, bugs, debugging, online tools]
-img_cdn: https://res.cloudinary.com/dked0ofts/image/upload/v1745921411/mmc-bug_dbpkhm.png
+img_cdn: https://res.cloudinary.com/dked0ofts/image/upload/v1745921411/
 ---
 
+![the whatsapp bug that shouldn't have been](https://res.cloudinary.com/dked0ofts/image/upload/v1745921411/mmc-bug_dbpkhm.png){: w="100%" h="400" }
 
 # Not All Spaces Are Equal: The WhatsApp Bug That Wasn't
 
