@@ -1,6 +1,6 @@
 ---
 title: Not All Spaces Are Equal
-date: 2025-04-29 11:00:00 +0100
+date: 2025-04-29 14:30:00 +0100
 categories: [general, dev talk]
 tags: [javascript, bugs, debugging, online tools]
 img_cdn: https://res.cloudinary.com/dked0ofts/image/upload/v1745921411/mmc-bug_dbpkhm.png
