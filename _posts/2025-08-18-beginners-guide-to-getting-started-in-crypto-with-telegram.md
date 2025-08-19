@@ -3,7 +3,7 @@ title: Beginners Guide to Getting Started in Crypto with Telegram
 date: 2025-08-18 16:00:00 +0100
 categories: [tutorial, crypto, trojan bot]
 tags: [crypto, trojan bot, crypto for dummies, buy crypto on telegram]
-img_cdn: https://res.cloudinary.com/dked0ofts/image/upload/v1755586007/
+img_cdn: https://res.cloudinary.com/dked0ofts/image/upload/
 ---
 
 # 🚀 Getting Started with Trojan Bot
@@ -93,21 +93,23 @@ As long as you're the only one who has it, your funds are secure.
 
 📌 You can also read my full [Security Tips for Crypto Wallets](#) guide.
 
-Now, tap **Start Trading**, and you’ll be greeted with the screen on the right:
+Now, tap **Start Trading**, and you’ll be greeted with the screen on the right (5).
 
-![Start trading screen](https://your-cdn-link.com/trojan-main-menu.png)
+![Main menu Screen](https://res.cloudinary.com/dked0ofts/image/upload/v1755587486/trojan-bot-telegram-tutorial-images-2_sll98t.png)
 
 ---
 
 ## 💰 Fund Your Wallet
 
-You’ll need some SOL to trade.
+Time to fund your wallet.  
+For everything you do on the Solana blockchain, you will need SOL.
 
 You can fund your wallet using:
 - P2P platforms like Binance
 - Local crypto exchangers in your area
 
 If you're new and unsure how to proceed, feel free to [DM me on Telegram](https://t.me/cwxand3r) and I’ll walk you through it.
+Simply copy your wallet address (5) and send some SOL to it.
 
 ---
 <a name="buy-tokens"></a>
@@ -120,52 +122,59 @@ To buy any token:
 2. Paste it into the chat with Trojan Bot
 3. Hit **Send**
 
+To demonstrate, I copied a random CA and used as an example.
 Trojan will display token info like this:
 
-![Token details screen](https://your-cdn-link.com/trojan-token-preview.png)
+![Token details screen](https://res.cloudinary.com/dked0ofts/image/upload/v1755587980/trojan-bot-telegram-tutorial-images-3_mikv5u.png)
 
 Then:
 - Just type how much **SOL** you want to spend
 - Hit **Send** again
 
 That’s it — the bot will buy the token for you instantly.
+If your wallet SOL balance is less than buy amount + tx fees (~0.0006SOL), the transaction will fail (see image on the right).
+![Buy Status screen](https://res.cloudinary.com/dked0ofts/image/upload/v1755589271/trojan-bot-telegram-tutorial-images-4_t3jyxk.png)
 
-🧪 Want more control?
 
-1. Tap **Limit**
-2. Adjust slippage, gas, buy delay, etc
+🧪 Do you want more control?
+
+1. Tap **Limit** (this will prevent the bot from sending the transaction before you're done adjusting parameters)
+2. You can adjust slippage, buy amount, 
 3. Tap **Swap**
 4. Then **Buy**
-
+![More Control](https://res.cloudinary.com/dked0ofts/image/upload/v1755592708/trojan-bot-telegram-tutorial-images-7_hzayud.png)
+![Adjust Parameters](https://res.cloudinary.com/dked0ofts/image/upload/v1755592707/trojan-bot-telegram-tutorial-images-8_prvkky.png)
 ---
 
 ## 💸 Sell Tokens — Even Simpler Than Buying
 
-Selling is even easier.
+Selling is even easier.  
+Tap the **Menu** button at the bottom left of the screen  
+Tap the **View detailed information about your tokens** option  
+(or type ```/positions``` in the prompt and **Send**)  
+The list of tokens you have in your wallet will be displayed. For example:
 
 At the top of your token screen, you’ll see:
 
 - **Sell 50%**
-- **Sell 75%**
 - **Sell 100%**
 
 Tap the one that matches how much you want to sell.
 
-![Sell token buttons](https://your-cdn-link.com/trojan-sell-buttons.png)
-
-💡 Want to sell a custom amount?
-
+💡 Want to sell a custom amount? No problem!  
 Tap **Sell X**, type the % you want to sell, and press **Enter**.
 
 Done.
+
+![View Positions](https://res.cloudinary.com/dked0ofts/image/upload/v1755590695/trojan-bot-telegram-tutorial-images-5_njycjw.png)
+![Sell token buttons](https://res.cloudinary.com/dked0ofts/image/upload/v1755591244/trojan-bot-telegram-tutorial-images-6_go7tbg.png)
 
 ---
 
 ## 🔚 Conclusion / What’s Next?
 
-### ✅ Summary:
-- Open the bot
-- Create a wallet
+### ✅ In summary:
+- Open the bot, new wallet generated automatically
 - Secure your private key
 - Paste a token CA and buy
 - Tap a button to sell
@@ -174,7 +183,7 @@ Done.
 
 But that’s just the beginning.
 
-There’s still more to explore:
+There’s still more to explore, more I can teach you:
 - Setting slippage and gas manually
 - Auto-buy / auto-sell
 - Token sniping
