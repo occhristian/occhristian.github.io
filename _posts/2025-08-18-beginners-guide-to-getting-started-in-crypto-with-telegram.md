@@ -3,7 +3,7 @@ title: Beginners Guide to Getting Started in Crypto with Telegram
 date: 2025-08-18 16:00:00 +0100
 categories: [tutorial, crypto, trojan bot]
 tags: [crypto, trojan bot, crypto for dummies, buy crypto on telegram]
-img_cdn: https://res.cloudinary.com/dked0ofts/image/upload/v1745921411/
+img_cdn: https://res.cloudinary.com/dked0ofts/image/upload/v1755586007/
 ---
 
 # 🚀 Getting Started with Trojan Bot
@@ -60,11 +60,11 @@ And now… I’ll show you how to use it too.
 ## 📦 Create a Fresh Wallet
 
 To create a fresh wallet, click here to open Trojan Bot:  
-👉 [@TrojanBot](https://t.me/TrojanBot)
+👉 [@TrojanBot](https://t.me/achilles_trojanbot?start=r-cwxander)
 
-You should see a screen like the one below:
+You might need to click the "Start Bot" button (1), and then you should see a screen like (2):
 
-![Welcome screen](https://your-cdn-link.com/trojan-welcome.png)
+![Welcome screen](https://res.cloudinary.com/dked0ofts/image/upload/v1755586007/trojan-bot-telegram-tutorial-images-1_qc5ggz.png)
 
 Tap **Continue** on the welcome message.
 
@@ -85,7 +85,7 @@ Let’s secure it next.
 - Your **private key**
 - Your **mnemonic phrase**
 
-Trojan Bot will show you your **private key** right after creating your wallet.
+Trojan Bot will show you your **private key** right after creating your wallet (3).
 
 Copy it immediately and save it somewhere **safe** — not on cloud storage.
 
@@ -93,7 +93,7 @@ As long as you're the only one who has it, your funds are secure.
 
 📌 You can also read my full [Security Tips for Crypto Wallets](#) guide.
 
-Now, tap **Start Trading**, and you’ll see this screen:
+Now, tap **Start Trading**, and you’ll be greeted with the screen on the right:
 
 ![Start trading screen](https://your-cdn-link.com/trojan-main-menu.png)
 
@@ -107,7 +107,7 @@ You can fund your wallet using:
 - P2P platforms like Binance
 - Local crypto exchangers in your area
 
-If you're new and unsure how to proceed, feel free to [DM me on Telegram](https://t.me/yourusername) and I’ll walk you through it.
+If you're new and unsure how to proceed, feel free to [DM me on Telegram](https://t.me/cwxand3r) and I’ll walk you through it.
 
 ---
 
