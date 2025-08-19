@@ -34,7 +34,7 @@ If you're completely new to crypto, please skim through my free intro course: [C
 - I. [📦 Create a fresh wallet](#-create-a-fresh-wallet)
 - II. [🔐 Secure your wallet](#-secure-your-wallet)
 - III. [💰 Fund your wallet](#-fund-your-wallet)
-- IV. [🛠️ Buy tokens](#-buy-tokens--as-simple-as-pasting-a-ca-and-hitting-send)
+- IV. [🛠️ Buy tokens](#buy-tokens)
 - V. [💸 Sell tokens](#-sell-tokens--even-simpler-than-buying)
 
 ---
@@ -110,7 +110,7 @@ You can fund your wallet using:
 If you're new and unsure how to proceed, feel free to [DM me on Telegram](https://t.me/cwxand3r) and I’ll walk you through it.
 
 ---
-
+<a name="buy-tokens"></a>
 ## 🛠️ Buy Tokens — As Simple As Pasting a CA and Hitting SEND
 
 Here’s where the fun begins.
