@@ -13,19 +13,19 @@ I like simple tutorials.
 If you can explain something in 10 minutes, why take an hour?
 
 By the time you get to the end of this tutorial, you'll:
-- Create a new wallet
-- Secure it
-- Buy and sell Solana memecoins
+- Have a brand new wallet
+- Learn how to secure it
+- Know how to buy and sell Solana memecoins
 
 …all without leaving Telegram.
 
-It should only take about 10 minutes to read through.
+This tutorial should only take about 10 minutes to read through.
 
 I’ve done my best to include only what you NEED to know — no fluff, no installations, and no payment required.
 
-> **Disclaimer:** I’m not affiliated with Telegram or Trojan Bot. I just use both tools. You can support me by using my [referral link]() to sign up or purchase the **Advanced Trojan Features with Telegram** course.
+> **Disclaimer:** I’m not affiliated with Telegram or Trojan Bot. I just use both tools. You can support me by using my [referral link](https://t.me/achilles_trojanbot?start=r-cwxander) to sign up or purchase the **Advanced Trojan Features with Telegram** course.
 
-If you're completely new to crypto, please skim through my free intro course: [Crypto 101](#)
+If you're completely new to crypto, please skim through my free intro course: [Crypto 101](#) or [Contact me on Telegram](https://t.me/cwxand3r)
 
 ---
 
@@ -70,7 +70,7 @@ Tap **Continue** on the welcome message.
 
 Then you’ll see a screen like this:
 
-![Create wallet screen](https://your-cdn-link.com/trojan-create-wallet.png)
+![Create wallet screen](https://res.cloudinary.com/dked0ofts/image/upload/v1755587486/trojan-bot-telegram-tutorial-images-2_sll98t.png)
 
 That’s it — your wallet has been created!
 
@@ -190,10 +190,10 @@ Start small. Practice with test amounts. As you build confidence, scale up slowl
 
 ## 🚪 Ready to Begin?
 
-Start now: 👉 [@TrojanBot on Telegram](https://t.me/TrojanBot)
+Start now: 👉 [@TrojanBot on Telegram](https://t.me/achilles_trojanbot?start=r-cwxander)
 
 Need help or want private guidance?  
-Message me on Telegram: [@yourusername](https://t.me/yourusername)
+Message me on Telegram: [@yourusername](https://t.me/cwxand3r)
 
 ---
 
