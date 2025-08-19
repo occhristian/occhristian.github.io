@@ -2,7 +2,7 @@
 title: Beginners Guide to Getting Started in Crypto with Telegram
 date: 2025-08-18 16:00:00 +0100
 categories: [tutorial, crypto, trojan bot]
-tags: [crypto, trojan bot, crypto for dummies, buy crypto on telegram]
+tags: [crypto, trojan bot, crypto for dummies, buy crypto on telegram, Telegram crypto bot, Solana trading, buy meme tokens, make money with memecoin]
 img_cdn: https://res.cloudinary.com/dked0ofts/image/upload/
 ---
 
@@ -11,7 +11,7 @@ img_cdn: https://res.cloudinary.com/dked0ofts/image/upload/
 I like simple tutorials.  
 If you can explain something in 10 minutes, why take an hour?  
 By the time you get to the end of this tutorial, you'll:
-- Have a brand new wallet with one of the best Telegram crypto bot
+- Have a brand new Solana wallet address with one of the best Telegram crypto bot
 - Learn how to secure your new wallet
 - Know how to buy meme tokens (Solana), and how to sell them for profit
 - Become proficient in Solana trading
