@@ -1,0 +1,53 @@
+- name: Acavita Learning Platform
+  type: EdTech / Full-stack
+  stack: React, Node, Express, Prisma, PostgreSQL, Render, Vercel
+  summary: A tutoring and learning-management platform with dashboards, role-based access, curriculum communication, and deployment workflows.
+  impact: Built around real education operations, parent-facing communication, and tutor coordination.
+  links:
+    - label: Ask me about this project
+      url: mailto:chilancer@gmail.com?subject=Acavita%20Learning%20Platform
+
+- name: Pi Swift
+  type: Blockchain Automation / Django
+  stack: Django, Celery, Redis, Stellar SDK, Python, Docker
+  summary: A secure wallet automation dashboard with encrypted seed storage, scheduled background jobs, and fast transaction execution logic.
+  impact: Shows my ability to work with time-sensitive backend tasks, queues, security, and blockchain APIs.
+  links:
+    - label: Technical walkthrough available on request
+      url: mailto:chilancer@gmail.com?subject=Pi%20Swift%20Project
+
+- name: Telegram Crypto Trading Tools
+  type: Bots / Crypto Tooling
+  stack: Python, Telegram Bot APIs, SQLite, Solana tooling, webhooks
+  summary: Buy bots, wallet trackers, trading alerts, and tutorial content for Telegram-first crypto workflows.
+  impact: Combines automation, UX, community education, and real-time notifications.
+  links:
+    - label: Telegram
+      url: https://t.me/cwxand3r
+
+- name: WhatsApp Automation Bot
+  type: Automation / Messaging
+  stack: Node.js, WhatsApp Web JS, Puppeteer, JavaScript
+  summary: A WhatsApp bot used to reduce repetitive communication work, capture leads, and reply to prospects automatically.
+  impact: Practical automation for small-business operations and publicity workflows.
+  links:
+    - label: Related article
+      url: /blog/2025/04/29/not-all-spaces-are-equal/
+
+- name: Zoffany Homes Portal
+  type: Real Estate / Web Platform
+  stack: Django REST Framework, React, JWT, role-based dashboards
+  summary: A real estate portal concept with realtor referrals, team-leader dashboards, property management, and role-based access.
+  impact: Designed for operational hierarchy, lead flow, and sales team coordination.
+  links:
+    - label: Discuss this build
+      url: mailto:chilancer@gmail.com?subject=Real%20Estate%20Portal
+
+- name: Technical Writing & Tutorials
+  type: Documentation / Education
+  stack: Jekyll, Markdown, GitHub Pages, Cloudinary
+  summary: Beginner-friendly guides on GitHub Pages, cloud computing, YAML, debugging, and Telegram crypto tools.
+  impact: Turns complex technical workflows into simple, practical explanations for learners.
+  links:
+    - label: Read the blog
+      url: /blog/
